@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  },
+  "name": "base-de-node",
+  "version": "0.0.2",
+  "description": "práctica de node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app base=3"
+  },
+  "author": "margarita-sing",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
